@@ -686,9 +686,6 @@
     <Reference Include="Unity.Recorder.Editor">
       <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.Recorder.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Animation.Rigging">
-      <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.Animation.Rigging.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.EditorCoroutines.Editor">
       <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
     </Reference>
@@ -701,14 +698,14 @@
     <Reference Include="Unity.RenderPipelines.Universal.Runtime">
       <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.PlasticSCM.Editor">
-      <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+    <Reference Include="Unity.Burst.Editor">
+      <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst">
       <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Burst.Editor">
-      <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
+    <Reference Include="Unity.PlasticSCM.Editor">
+      <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Animation.Rigging.Editor">
       <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.Animation.Rigging.Editor.dll</HintPath>
@@ -719,14 +716,11 @@
     <Reference Include="Unity.VisualScripting.Shared.Editor">
       <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.ShaderGraph.Editor">
-      <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.TerrainTools">
       <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.TerrainTools.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.VisualStudio.Editor">
-      <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+    <Reference Include="Unity.ShaderGraph.Editor">
+      <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Recorder.Base">
       <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.Recorder.Base.dll</HintPath>
@@ -737,14 +731,17 @@
     <Reference Include="Unity.VisualScripting.Core">
       <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+    <Reference Include="Unity.VisualStudio.Editor">
+      <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core.Editor">
       <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Config.Runtime">
       <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Config.Runtime.dll</HintPath>
@@ -776,14 +773,14 @@
     <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
       <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
+      <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor">
       <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
       <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-      <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State.Editor">
       <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
@@ -797,14 +794,17 @@
     <Reference Include="Unity.TextMeshPro">
       <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.RenderPipelines.Universal.Shaders">
+      <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Recorder">
+      <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.Recorder.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Searcher.Editor">
       <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Universal.Shaders">
-      <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State">
       <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
@@ -812,8 +812,8 @@
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Recorder">
-      <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.Recorder.dll</HintPath>
+    <Reference Include="Unity.Animation.Rigging">
+      <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.Animation.Rigging.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Editor">
       <HintPath>/Users/evadina/Creative Tech/5th Semester/Project V/Unity/IADE-Island/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>

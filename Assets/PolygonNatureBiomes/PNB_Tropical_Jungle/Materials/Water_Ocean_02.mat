@@ -190,7 +190,7 @@ Material:
     - _ODM: 0.02
     - _OcclusionStrength: 1
     - _Octaves: 8
-    - _Opacity: 0.9
+    - _Opacity: 0.76
     - _OpacityFalloff: 9.39
     - _OpacityMin: 0.32
     - _OverallFalloff: 0.45
@@ -280,7 +280,7 @@ Material:
     - _FoamColor: {r: 0.5199804, g: 0.8962264, b: 0.8460602, a: 1}
     - _FoamColor1: {r: 0.5215687, g: 0.8980392, b: 0.8470588, a: 0}
     - _FoamEmitColour: {r: 0, g: 0.44473314, b: 1, a: 0}
-    - _ShallowColor: {r: 0.14893797, g: 0.54042083, b: 0.723, a: 0}
+    - _ShallowColor: {r: 0.10946956, g: 0.5660378, b: 0.5052433, a: 0}
     - _ShallowColour: {r: 0.9529412, g: 0.7882354, b: 0.5882353, a: 0}
     - _VeryDeepColour: {r: 0.01176471, g: 0.172549, b: 0.2745098, a: 0}
     - _WaterDeepColor: {r: 0, g: 0.435, b: 0.40020004, a: 0}

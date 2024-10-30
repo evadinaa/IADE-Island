@@ -16,7 +16,7 @@ public class UnderWaterEffects : MonoBehaviour
 
     private void OnTriggerExit(Collider other)
     {
-        waterFX.gameObject.SetActive(false);
+        //waterFX.gameObject.SetActive(false);
         RenderSettings.fog = false;
     }
 }

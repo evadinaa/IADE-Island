@@ -68,7 +68,6 @@
     <Compile Include="Assets/Idyllic Fantasy Nature/Scripts/BushLeafTrigger.cs" />
     <Compile Include="Assets/Idyllic Fantasy Nature/Scripts/WindControl.cs" />
     <Compile Include="Assets/Idyllic Fantasy Nature/Scripts/PlayerMovement.cs" />
-    <Compile Include="Assets/Scripts/TransparentObjet.cs" />
     <Compile Include="Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.cs" />
     <Compile Include="Assets/Idyllic Fantasy Nature/Scripts/CameraMovement.cs" />
   </ItemGroup>

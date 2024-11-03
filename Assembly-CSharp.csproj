@@ -61,8 +61,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/Idyllic Fantasy Nature/Scripts/ButterflySpawn.cs" />
+    <Compile Include="Assets/Sound system/_Audio/Scripts/PlayRandomSound.cs" />
+    <Compile Include="Assets/Sound system/_Audio/Scripts/AudioTrigger_Simple.cs" />
     <Compile Include="Assets/Scripts/UnderWaterEffects.cs" />
+    <Compile Include="Assets/Sound system/_Audio/Scripts/MusicMixer.cs" />
     <Compile Include="Assets/Idyllic Fantasy Nature/Scripts/VegetationBendControl.cs" />
+    <Compile Include="Assets/Sound system/_Audio/Scripts/AudioCollision_Simple.cs" />
     <Compile Include="Assets/Idyllic Fantasy Nature/Scripts/ExitGame.cs" />
     <Compile Include="Assets/Idyllic Fantasy Nature/Scripts/ButterflySpawnArea.cs" />
     <Compile Include="Assets/Idyllic Fantasy Nature/Scripts/BushLeafTrigger.cs" />
